@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPrimaryAplication</string>
+    <string name="happy_birthday_rafael">Happy Birthday Rafael</string>
+    <string name="roll">Roll</string>
+</resources>
